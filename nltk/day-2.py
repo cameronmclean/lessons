@@ -31,7 +31,7 @@
 from IPython.display import display
 from IPython.display import display_pretty, display_html, display_jpeg, display_png, display_svg
 from IPython.display import Image
-from IPython.display import HTML
+from IPython.display import HTML.afdfdf
 import nltk
 
 # <codecell>
